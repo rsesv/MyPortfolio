@@ -2,7 +2,7 @@
 
 My personal IT portfolio: a responsive, single-page website that shows who I am, what I can do, and the projects I've worked on.
 
-**Live site:** YOUR-LIVE-URL-HERE
+**Live site:** https://rsesv.github.io/MyPortfolio/
 
 ## About
 I'm a third-year BSIT student at City College of Calamba (Department of Computing and Informatics), interested in web development and system design. This portfolio is the first draft of my IT portfolio for the Portfolio Building for IT module.
